@@ -1,4 +1,4 @@
-# The People Who Shaped This Chapter
+# Farewell Galaxy
 
 A warm, interactive farewell website — part constellation, part memory book, part
 personal time capsule. Built with **React + Vite** and **Framer Motion**.
