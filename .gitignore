@@ -1,0 +1,11 @@
+node_modules
+dist
+
+# Local working files (not for publishing)
+Book2.xlsx
+dist-ssr
+*.local
+.DS_Store
+.vercel
+.netlify
+npm-debug.log*
