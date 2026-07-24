@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // set `base` to '/<repo>/'. For Vercel/Netlify or a custom domain, leave it as '/'.
 export default defineConfig({
   plugins: [react()],
-  base: '/',
+  base: '/MSFT_Farewell/',
 })
